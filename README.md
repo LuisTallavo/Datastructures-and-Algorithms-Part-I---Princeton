@@ -1,5 +1,5 @@
 <p align="center">
-  <b><h1>Coursera - Algorithms, Part I by Princeton University (Assignment Solutions)</h1></b>
+  <b><h2>Coursera - Algorithms, Part I by Princeton University (Assignment Solutions)</h2></b>
 </p>
 
 **Percolation**
