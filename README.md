@@ -1,7 +1,6 @@
 <p align="center">
-  This is a test!
+  **Coursera - Algorithms, Part I by Princeton University (Assignment Solutions)**
 </p>
-**Coursera - Algorithms, Part I by Princeton University (Assignment Solutions)**
 
 **Percolation**
 Finds the percolation threshold via Monte Carlo simulation. The percolation threshold is the probability needed for a cell to be open to almost guarantee that a system percolates. A system percolates if there is a connection between the top and bottom of the system.
